@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTune/static/css/main.acc16e7b.css",
+    "main.js": "/TextTune/static/js/main.e8ee83a3.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextTune/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextTune/index.html",
+    "main.acc16e7b.css.map": "/TextTune/static/css/main.acc16e7b.css.map",
+    "main.e8ee83a3.js.map": "/TextTune/static/js/main.e8ee83a3.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextTune/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc16e7b.css",
+    "static/js/main.e8ee83a3.js"
+  ]
+}
